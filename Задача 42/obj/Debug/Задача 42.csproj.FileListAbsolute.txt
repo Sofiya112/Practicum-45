@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\Задача 42\bin\Debug\Задача 42.exe.config
+C:\Users\Kab-35-16\source\repos\Задача 42\bin\Debug\Задача 42.exe
+C:\Users\Kab-35-16\source\repos\Задача 42\bin\Debug\Задача 42.pdb
+C:\Users\Kab-35-16\source\repos\Задача 42\obj\Debug\Задача 42.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\source\repos\Задача 42\obj\Debug\Задача 42.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\Задача 42\obj\Debug\Задача 42.exe
+C:\Users\Kab-35-16\source\repos\Задача 42\obj\Debug\Задача 42.pdb
