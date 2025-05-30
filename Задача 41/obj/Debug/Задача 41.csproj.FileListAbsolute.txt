@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\Задача 41\bin\Debug\Задача 41.exe.config
+C:\Users\Kab-35-16\source\repos\Задача 41\bin\Debug\Задача 41.exe
+C:\Users\Kab-35-16\source\repos\Задача 41\bin\Debug\Задача 41.pdb
+C:\Users\Kab-35-16\source\repos\Задача 41\obj\Debug\Задача 41.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\source\repos\Задача 41\obj\Debug\Задача 41.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\Задача 41\obj\Debug\Задача 41.exe
+C:\Users\Kab-35-16\source\repos\Задача 41\obj\Debug\Задача 41.pdb
